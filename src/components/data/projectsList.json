@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "NFL Playoff Prediction",
+        "img": "prodimages/nfl.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 2,
+        "name": "Credit Risk Analysis",
+        "img": "prodimages/credit.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 3,
+        "name": "Cryptocurrencies",
+        "img": "prodimages/crypto.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 4,
+        "name": "Neural Network Charity Analysis",
+        "img": "prodimages/paul.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 5,
+        "name": "Bike Sharing App",
+        "img": "prodimages/bike.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 6,
+        "name": "Amazon Vine Analysis",
+        "img": "prodimages/amazon.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    }, 
+    {
+        "id": 7,
+        "name": "MechaCar Statistical Analysis",
+        "img": "prodimages/tesla.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 8,
+        "name": "Mapping Earthquakes",
+        "img": "prodimages/earthquake.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 9,
+        "name": "Plotly Deployment",
+        "img": "prodimages/plot.png",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 10,
+        "name": "UFO's",
+        "img": "prodimages/ufo.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 11,
+        "name": "Mission To Mars",
+        "img": "prodimages/mars.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 12,
+        "name": "Movies ETL",
+        "img": "prodimages/movies.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 13,
+        "name": "Pewlett Hackard Analysis",
+        "img": "prodimages/paul.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 14,
+        "name": "World Weather Analysis",
+        "img": "prodimages/weather.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 15,
+        "name": "PyBer Analysis",
+        "img": "prodimages/paul.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 16,
+        "name": "School District Analysis",
+        "img": "prodimages/school.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 17,
+        "name": "Election Analysis",
+        "img": "prodimages/vote.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 18,
+        "name": "Stock Analysis",
+        "img": "prodimages/stock.jpg",
+        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    }
+]
