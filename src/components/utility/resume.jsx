@@ -1,10 +1,12 @@
 import React from "react";
 import aboutme from "../img/aboutme.png"
 import { NavLink, Link } from "react-router-dom";
+import '../styles/resumeStyles.css'
 
 function Resume() {
     return (
-        <div className="container">
+      <div className="body">
+ <div className="cover">
         <div className="left_side">
           <div className="profileText">
             <div className="imgBx">
@@ -94,7 +96,7 @@ function Resume() {
           </div>
         </div>
         <div className="right_side">
-          <div className="about">
+          <div className="aboutInfo">
             <h2 className="title2">Profile</h2>
             <p>
               A dedicated Data Engineer with 3 years of experience in building systems
@@ -104,9 +106,9 @@ function Resume() {
               tools and programming languages.
             </p>
           </div>
-          <div className="about">
+          <div className="aboutInfo">
             <h2 className="title2">Experience</h2>
-            <div className="box">
+            <div className="boxInfo">
               <div className="year_company">
                 <h5 className="year1">2020 - Present</h5>
                 <h5>Atrium Health, Charlotte NC</h5>
@@ -140,7 +142,7 @@ function Resume() {
               </ul>
               <div></div>
             </div>
-            <div className="box">
+            <div className="boxInfo">
               <div className="year_company">
                 <h5 className="year1">2019 - 2020</h5>
                 <h5>Road to Hire, Charlotte NC</h5>
@@ -176,6 +178,8 @@ function Resume() {
           </div>
         </div>
       </div>
+      </div>
+       
       
     );
 }
