@@ -28,8 +28,8 @@ function Navhome() {
                         </li>
                     </Link>
                 </ul>
-                <a href="/projects" className="btn">
-                    Portfolio
+                <a href="/resume" className="btn">
+                    Resume
                 </a>
             </nav>
             <div className="content">
