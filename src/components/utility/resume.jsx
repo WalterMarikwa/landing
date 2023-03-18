@@ -1,5 +1,5 @@
 import React from "react";
-import Navproject from "../utility/navProject";
+import Nav from "../utility/nav";
 import aboutme from "../img/aboutme.png"
 import { NavLink, Link } from "react-router-dom";
 import '../styles/resumeStyles.css'
@@ -7,7 +7,7 @@ import '../styles/resumeStyles.css'
 function Resume() {
     return (
     <div>
-      <Navproject />
+      <Nav />
 <div className="body">
  <div className="cover">
         <div className="left_side">
@@ -111,17 +111,19 @@ function Resume() {
           </div>
           <div className="aboutInfo">
             <h2 className="title2">Experience</h2>
+            <br />
             <div className="boxInfo">
               <div className="year_company">
-                <h5 className="year1">2020 - Present</h5>
-                <h5>Atrium Health, Charlotte NC</h5>
+                <h2>Atrium Health, Charlotte NC</h2>
+                <span>2020 - Present</span>
               </div>
-              <h4>Associate Data Engineer</h4>
+              <h4 className="title2">Associate Data Engineer</h4>
               <p>
                 Atrium Health is a hospital network that provides healthcare, hope,
                 and healing at more than 1400 care locations and 40 hospitals across
                 NC, SC, GA, and AL.
               </p>
+              <br />
               <ul>
                 <li>
                   Extracting data from different source files with high volume of data
@@ -143,20 +145,21 @@ function Resume() {
                   standards, and documentation.
                 </li>
               </ul>
-              <div></div>
             </div>
+            <br /> <br />
             <div className="boxInfo">
               <div className="year_company">
-                <h5 className="year1">2019 - 2020</h5>
-                <h5>Road to Hire, Charlotte NC</h5>
+                <h2>Road to Hire, Charlotte NC</h2>
+                <span>2019 - 2020</span>
               </div>
-              <h4>Software Engineer Apprentice</h4>
+              <h4 className="title2">Software Engineer Apprentice</h4>
               <p>
                 Road to Hire is a non-profit organization designed to interrupt cycles
                 of intergenerational poverty by ensuring the young people in its
                 programs have access to higher education, high-earning careers and
                 prosperous futures.
               </p>
+              <br />
               <ul>
                 <li>
                   Developed various eCommerce web applications and components using

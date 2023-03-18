@@ -17,7 +17,7 @@ function Service() {
                             possible.
                         </p>
                         <p style={{ textAlign: "center" }}>
-                            <a className="button" href="https://readmore.waltermarikwa.repl.co/">
+                            <a className="button" href="/resume">
                                 Read More
                             </a>
                         </p>
@@ -33,7 +33,7 @@ function Service() {
                             possible.
                         </p>
                         <p style={{ textAlign: "center" }}>
-                            <a className="button" href="#">
+                            <a className="button" href="/resume">
                                 Read More
                             </a>
                         </p>
@@ -49,7 +49,7 @@ function Service() {
                             possible.
                         </p>
                         <p style={{ textAlign: "center" }}>
-                            <a className="button" href="#">
+                            <a className="button" href="/resume">
                                 Read More
                             </a>
                         </p>
