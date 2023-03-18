@@ -1,11 +1,14 @@
 import React from "react";
+import Navproject from "../utility/navProject";
 import aboutme from "../img/aboutme.png"
 import { NavLink, Link } from "react-router-dom";
 import '../styles/resumeStyles.css'
 
 function Resume() {
     return (
-      <div className="body">
+    <div>
+      <Navproject />
+<div className="body">
  <div className="cover">
         <div className="left_side">
           <div className="profileText">
@@ -173,14 +176,12 @@ function Resume() {
                   research for results.
                 </li>
               </ul>
-              <div></div>
             </div>
           </div>
         </div>
       </div>
       </div>
-       
-      
+    </div> 
     );
 }
 
