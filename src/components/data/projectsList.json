@@ -66,8 +66,8 @@
         "id": 10,
         "name": "UFO's",
         "img": "prodimages/ufo.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "HTML5, CSS3, JavaScript, BootStrap4.",
+        "btn": "https://github.com/WalterMarikwa/UFOs"
     },
     {
         "id": 11,
@@ -80,49 +80,49 @@
         "id": 12,
         "name": "Movies ETL",
         "img": "prodimages/movies.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Python 3, Anaconda, Conda, Jupyter Notebook, PostgreSQL, pgAdmin 4.",
+        "btn": "https://github.com/WalterMarikwa/Movies-ETL"
     },
     {
         "id": 13,
         "name": "Pewlett Hackard Analysis",
         "img": "prodimages/paul.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "PostgreSQL, pgAdmin 4.",
+        "btn": "https://github.com/WalterMarikwa/Pewlett-Hackard-Analysis"
     },
     {
         "id": 14,
         "name": "World Weather Analysis",
         "img": "prodimages/weather.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Matplotlib 3.0, Python 3.7, Visual Studio Code 1.50.0, Anaconda 4.0, Jupyter Notebook 6.0, Pandas.",
+        "btn": "https://github.com/WalterMarikwa/World_Weather_Analysis"
     },
     {
         "id": 15,
         "name": "PyBer Analysis",
         "img": "prodimages/paul.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Jupyter Notebook, Python 3.7.10.",
+        "btn": "https://github.com/WalterMarikwa/PyBer_Analysis"
     },
     {
         "id": 16,
         "name": "School District Analysis",
         "img": "prodimages/school.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Python 3.7, Anaconda, Jupyter Notebook.",
+        "btn": "https://github.com/WalterMarikwa/School_District_Analysis"
     },
     {
         "id": 17,
         "name": "Election Analysis",
         "img": "prodimages/vote.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Python 3.7.6, Visual Studio Code.",
+        "btn": "https://github.com/WalterMarikwa/Election_Analysis"
     },
     {
         "id": 18,
         "name": "Stock Analysis",
         "img": "prodimages/stock.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "VBA Programming, Excel.",
+        "btn": "https://github.com/WalterMarikwa/stock-analysis"
     }
 ]
