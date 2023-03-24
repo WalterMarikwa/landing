@@ -3,63 +3,63 @@
         "id": 1,
         "name": "NFL Playoff Prediction",
         "img": "prodimages/nfl.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "skill": "Python 3, Jupyter Notebook, Pg Admin4, PostgreSQL, Tableu.",
         "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
     },
     {
         "id": 2,
         "name": "Credit Risk Analysis",
         "img": "prodimages/credit.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Jupyter Notebook, Python 3, Imbalanced-Learn Library, SciKit-Learn Library.",
+        "btn": "https://github.com/WalterMarikwa/Credit_Risk_Analysis"
     },
     {
         "id": 3,
         "name": "Cryptocurrencies",
         "img": "prodimages/crypto.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Jupyter Notebook, Pandas, Scatter Plot.",
+        "btn": "https://github.com/WalterMarikwa/Cryptocurrencies"
     },
     {
         "id": 4,
         "name": "Neural Network Charity Analysis",
         "img": "prodimages/paul.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Python 3, Anaconda Navigator, Conda, Jupyter Notebook.",
+        "btn": "https://github.com/WalterMarikwa/Neural_Network_Charity_Analysis"
     },
     {
         "id": 5,
         "name": "Bike Sharing App",
         "img": "prodimages/bike.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Tableu, Jupyter Notebook, Pandas.",
+        "btn": "https://github.com/WalterMarikwa/bikesharing"
     },
     {
         "id": 6,
         "name": "Amazon Vine Analysis",
         "img": "prodimages/amazon.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "PG Admin4, PostgreSQL, AWS, Jupyter Notebook, Google Cooble.",
+        "btn": "https://github.com/WalterMarikwa/Amazon_Vine_Analysis"
     }, 
     {
         "id": 7,
         "name": "MechaCar Statistical Analysis",
         "img": "prodimages/tesla.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "R Programming, R Studio.",
+        "btn": "https://github.com/WalterMarikwa/MechaCar_Statistical_Analysis"
     },
     {
         "id": 8,
         "name": "Mapping Earthquakes",
         "img": "prodimages/earthquake.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "HTML5,CSS3,Javascript.",
+        "btn": "https://github.com/WalterMarikwa/Mapping_Earthquakes"
     },
     {
         "id": 9,
         "name": "Plotly Deployment",
         "img": "prodimages/plot.png",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "skill": "HTML5,CSS3,Javascript.",
         "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
     },
     {
@@ -73,8 +73,8 @@
         "id": 11,
         "name": "Mission To Mars",
         "img": "prodimages/mars.jpg",
-        "skill": "Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+        "skill": "Python 3, Anaconda Navigator, Conda, Jupyter Notebook.",
+        "btn": "https://github.com/WalterMarikwa/Mission-to-Mars"
     },
     {
         "id": 12,
