@@ -42,6 +42,8 @@ body{
     transition: transform .3s;
     border: 1px solid black;
   }
+
+  
   
   .prodGrid > article:hover{
     transform: translateY(5px);
@@ -55,17 +57,21 @@ body{
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
   }
+
+  /* .prodGrid > article p{
+    padding: 50px;
+  } */
   
-  .prodText{
+  /* .prodText{
     padding: 0 20px 20px;
-  }
-  
-  .prodText h2{
+  } */
+ 
+  /* .prodText h2{
     text-transform: uppercase;
     border: 1px solid black;
-  }
+  } */
   
-  .prodText  button{
+  /* .prodText  button{
     background: black;
     border-radius: 20px;
     border: none;
@@ -75,7 +81,25 @@ body{
     font-weight: 600;
     text-transform: uppercase;
     cursor: pointer;
-  }
+  } */
+
+  .ProdBtn{
+	background-color:#f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s; 
+  margin: auto;
+  
+}
+.ProdBtn:hover{
+	background-color: transparent;
+	border: 2px solid #f9004d;
+	cursor: pointer;
+}
 
   .ank {
     text-decoration: none;

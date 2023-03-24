@@ -153,7 +153,7 @@ h4{
 	font-size: 18px;
 	margin-bottom: 45px;
 }
-button{
+/* button{
 	background-color:#f9004d;
 	color: white;
 	text-decoration: none;
@@ -162,12 +162,12 @@ button{
 	padding: 13px 30px;
 	border-radius: 30px;
 	transition: .4s; 
-}
-button:hover{
+} */
+/* button:hover{
 	background-color: transparent;
 	border: 2px solid #f9004d;
 	cursor: pointer;
-}
+} */
 
 .service{
 	background: #101010;
