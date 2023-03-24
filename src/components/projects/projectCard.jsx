@@ -19,7 +19,6 @@ function Cards() {
             </form>
         </div>
         <div className="prodContainer">
-           
             <main className="prodGrid">
                 {Data.filter((postData)=> {
                    if (searchTerm == "") {
@@ -44,7 +43,7 @@ return postData
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
-                                    <button className="lol">View</button>
+                                    <button className="ProdBtn">View</button>
                                 </a>
                             </div>
                         </article>
