@@ -22,7 +22,7 @@ function Form() {
           <textarea type="text" id="msg" name="subject" placeholder="Write your message..." required rows={5} cols={50} />
           <br />
           <br />
-          <button name="submit" type="submit" id="contact-submit" data-submit="...Sending" value="Send Message">Send Message</button>
+          <button className="butt" name="submit" type="submit" id="contact-submit" data-submit="...Sending" value="Send Message">Send Message</button>
         </form>
       </div>
       {/* <div class="vl"></div> */}
