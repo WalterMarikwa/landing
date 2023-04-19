@@ -1,7 +1,7 @@
 import React from "react";
 import Nav from "../utility/nav";
 import aboutme from "../img/aboutme.png"
-import { NavLink, Link } from "react-router-dom";
+// import { NavLink, Link } from "react-router-dom";
 import '../styles/resumeStyles.css'
 
 function Resume() {
@@ -45,7 +45,7 @@ function Resume() {
                 <span className="text">
                   <a
                     href="https://www.linkedin.com/in/walter-m-03b137175/"
-                    target="_blank"
+                    target="_blank" rel="noopener noreferrer" 
                   >
                     LinkedIn
                   </a>

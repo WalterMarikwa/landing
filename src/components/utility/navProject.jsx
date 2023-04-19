@@ -12,7 +12,7 @@ function Navproject() {
                 <ul>
                     <Link to="/">
                         <li>
-                            <a>Home</a>
+                            <a href="/">Home</a>
                         </li>
                     </Link>
                     <li>
@@ -20,12 +20,12 @@ function Navproject() {
                     </li>
                     <Link to="/projects">
                         <li>
-                            <a>Projects</a>
+                            <a href="/projects">Projects</a>
                         </li>
                     </Link>
                     <Link to="/contact">
                         <li>
-                            <a>Contact Me</a>
+                            <a href="/contact">Contact Me</a>
                         </li>
                     </Link>
                 </ul>

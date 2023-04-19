@@ -13,7 +13,7 @@ function About() {
           Developer <span>&amp; Analytics</span>
         </h5>
         <p>
-        I've always had a thing for tech. Inspired by my father, who is a fullstack developer. 
+        I've always had a thing for tech. Inspired by my father who is a fullstack developer,
         From a young age I've been fascinated with the idea of creating through tech. 
         So my journey started in high school when I started self-teaching myself how to code. 
         After graduating high school, For multiple reasons college was not an option for me therefore I joined
