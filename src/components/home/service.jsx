@@ -12,9 +12,7 @@ function Service() {
                     <h5>Web Development</h5>
                     <div className="pra">
                         <p>
-                            Every website should be built with two primary goals: Firstly, it
-                            needs to work across all devices. Secondly, it needs to be fast as
-                            possible.
+                        Developed various eCommerce web applications and components using ReactJS, ExpressJS/NodeJS, and MySQL...
                         </p>
                         <p style={{ textAlign: "center" }}>
                             <a className="button" href="/resume">
@@ -28,9 +26,7 @@ function Service() {
                     <h5>Data Engineering</h5>
                     <div className="pra">
                         <p>
-                            Every website should be built with two primary goals: Firstly, it
-                            needs to work across all devices. Secondly, it needs to be fast as
-                            possible.
+                        Extracting data from different source files with high volume of data sets from multiple databases using... 
                         </p>
                         <p style={{ textAlign: "center" }}>
                             <a className="button" href="/resume">
@@ -44,9 +40,7 @@ function Service() {
                     <h5>Data Analytics</h5>
                     <div className="pra">
                         <p>
-                            Every website should be built with two primary goals: Firstly, it
-                            needs to work across all devices. Secondly, it needs to be fast as
-                            possible.
+                        Developing, implementing, and maintaining data analytics protocols, standards, and documentation…
                         </p>
                         <p style={{ textAlign: "center" }}>
                             <a className="button" href="/resume">

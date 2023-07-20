@@ -1,4 +1,4 @@
-# Landing Page. 
+# Landing Page 
 
 ![alt text](./src//components/img/readmeHero.png)
 
